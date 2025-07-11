@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "kid": "lansweeper_test_key",
+      "alg": "RS256",
+      "n": "ArQzD3i6E3Q2YgxF6iarWeoKx-vnGDeRUuLgFyhh6shSzmz_KbDLoBhvL8GDZO4WCNBaeY07Nr8Vfg2crTNkHhdLUZ_R2UIIpY0mqKKz_z8ooVoM3rSp_h-k7pQJEQ6wxmB4Qr2Sc34jmc4mw-JfVPoFuRCRI5juoYGvdYdmd7c--k3j_BmSjGzcmyp-TiwR4L4Nj4s5tB-bu9ixe4xdprMo4qp4RgkiWJkSJyp1rgTltdqb2F-qzaA5QTiMGP41F0BXgLCaHMRwwkfsCaQyDRU2-amsz_-Wo5x9Bh9XVC3Ntg2sTtrfn2KbJxbLnaFJEgHAbbUD2HZn-4h32UtBzw",
+      "e": "AQAB"
+    }
+  ]
+}
